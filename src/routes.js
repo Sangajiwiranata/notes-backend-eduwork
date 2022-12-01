@@ -25,6 +25,7 @@ const routes = [
         method: 'DELETE',
         path: '/notes/{id}',
         handler: deleteNoteByIdHandler
+        // INi Comentar
     },
 ]
 
